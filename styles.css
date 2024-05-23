@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(./pic.png);
+    font-size: medium;
+    background-repeat: no-repeat;
+    color: blue;
+}
+h1{
+    color: darkred;
+}
+.task-list {
+    list-style-type: none;
+    padding: 0;
+}
+.task {
+    margin-bottom: 10px;
+}
+.completed {
+    text-decoration: line-through;
+    color: #f50a0a;
+}
